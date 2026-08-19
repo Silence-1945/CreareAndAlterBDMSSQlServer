@@ -1,1 +1,1 @@
-Develop_Alter_table_and_SQL_Server
+Файл с созданием БД и изменением структуры таблицы
